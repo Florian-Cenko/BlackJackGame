@@ -25,8 +25,7 @@ The player plays against a dealer, managing chips and making bets each round.
    cd BlackjackPython
 
 Run the game:
-```bash
-   python BlackJack.py
+   - python BlackJack.py
 
 
 🎮 How to Play
